@@ -43,9 +43,9 @@ function removeAdmin() {
 //  ConcatinateArray()
 function concatenateArray() {
   const newArray = [
-    {id:5, name:"alex", age:"22", profession:"developer"},
-    {id:6, name:"emma", age:"25", profession:"admin"},
-    {id:7, name:"michael", age:"23", profession:"developer"}
+    {id:5, name:"mkt", age:"22", profession:"developer"},
+    {id:6, name:"mkg", age:"25", profession:"admin"},
+    {id:7, name:"akg", age:"23", profession:"developer"}
   ];
 
   const concatenatedArray = employees.concat(newArray);
