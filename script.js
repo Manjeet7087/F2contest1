@@ -41,7 +41,7 @@ function removeAdmin() {
 }
 
 //  ConcatinateArray()
-function ConcatinateArray() {
+function concatinateArray() {
   const newArray = [
     {id:5, name:"alex", age:"22", profession:"developer"},
     {id:6, name:"emma", age:"25", profession:"admin"},
